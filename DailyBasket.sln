@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyBasket.Api", "DailyBasket.Api\DailyBasket.Api.csproj", "{EB0989F4-E082-45D8-A1CD-7A2EF65F3C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0989F4-E082-45D8-A1CD-7A2EF65F3C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0989F4-E082-45D8-A1CD-7A2EF65F3C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0989F4-E082-45D8-A1CD-7A2EF65F3C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0989F4-E082-45D8-A1CD-7A2EF65F3C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+frontend/dailybasket-client/node_modules/
+frontend/dailybasket-client/dist/
+frontend/dailybasket-client/.vite/
+
+*.log
